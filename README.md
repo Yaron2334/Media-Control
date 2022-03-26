@@ -22,6 +22,9 @@ If you want to change the time skipped, click on the Album art on the right side
 At the moment it just supports WebNowPlaying, but there is more to come!
 
 
+# >>> [Click to download Media Control](https://github.com/Yaron2334/Media-Control/releases/download/v1.0.0326/Media-Control-Yaron_1.0.0326.rmskin) <<<
+
+
 ## If you have any questions or requests you can contact me here:
 
 
