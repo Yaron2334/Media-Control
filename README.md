@@ -10,19 +10,29 @@
 ](https://github.com/tjhrulz/WebNowPlaying-BrowserExtension)
 
 
-## Version 1.0.0326
+## Changelog
 
-Release of Meadia Control.
+## Version 1.1.0329
+
+Bugfix:
+
+- Fixed a bug, that prevented the user from clicking the forward and the repeat button. 
 
 ##### Note:
 
-To Jump 10 seconds you click once and to skip a song you double click on the respective button. 
+To jump 15 seconds you click once and to skip a song you double click on the respective button. 
 If you want to change the time skipped, click on the Album art on the right side and type in your time in seconds. Confirm with "Enter"
 
 At the moment it just supports WebNowPlaying, but there is more to come!
 
+# >>> [Click to download Media Control](https://github.com/Yaron2334/Media-Control/releases/download/v1.0.0329/Media-Control-Yaron_1.0.0329.rmskin) <<<
 
-# >>> [Click to download Media Control](https://github.com/Yaron2334/Media-Control/releases/download/v1.0.0326/Media-Control-Yaron_1.0.0326.rmskin) <<<
+## Version 1.0.0326
+
+Release of Meadia Control.
+
+
+
 
 
 ## If you have any questions or requests you can contact me here:
