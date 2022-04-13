@@ -11,6 +11,14 @@
 
 
 ## Changelog
+## Version 1.1.0413
+
+Modification:
+
+- Changed the progress slider mechanism. (Thank you [Cariboudjan](https://github.com/Cariboudjan))
+
+# >>> [Click to download Media Control](https://github.com/Yaron2334/Media-Control/releases/download/v1.0.0413/Media-Control-Yaron_1.0.0413.rmskin) <<<
+
 
 ## Version 1.1.0329
 
@@ -25,7 +33,7 @@ If you want to change the time skipped, click on the Album art on the right side
 
 At the moment it just supports WebNowPlaying, but there is more to come!
 
-# >>> [Click to download Media Control](https://github.com/Yaron2334/Media-Control/releases/download/v1.0.0329/Media-Control-Yaron_1.0.0329.rmskin) <<<
+
 
 ## Version 1.0.0326
 
