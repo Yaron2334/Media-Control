@@ -17,7 +17,7 @@ Modification:
 
 - Changed the progress slider mechanism. (Thank you [Cariboudjan](https://github.com/Cariboudjan))
 
-# >>> [Click to download Media Control](https://github.com/Yaron2334/Media-Control/raw/main/Media%20Control%20-%20Yaron%20(Droptop%20App).rmskin) <<<
+# >>> [Click to download Media Control](https://github.com/Yaron2334/Media-Control/raw/main/Media_Control_-_Yaron_Droptop_App.rmskin) <<<
 
 
 ## Version 1.1.0329
